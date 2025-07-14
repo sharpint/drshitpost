@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>Deltarune shitpost page</title>
-        <meta name="description" content="zxc">
-    </head>
-</html>
-
 
 # Deltarune Shitpost Page
 I will upload shitpost on this page, please send shitpost images or gif to the discord: .1mtassinggtv
