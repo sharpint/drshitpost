@@ -7,14 +7,14 @@
 </html>
 
 
-<h1>Deltarune Shitpost Page</h1>
+# Deltarune Shitpost Page
 I will upload shitpost on this page, please send shitpost images or gif to the discord: .1mtassinggtv
 If u are a Github Pages developer, help me on discord how to make the images working
 
-<h1> Updates down. </h1>
-**1:** Fixed the GIF Issue
+# Updates down.
+<b>1:</b> Fixed the GIF Issue
 
-**2:** Using HTML now, but no CSS (this mean NO 100% .md)
+<b>2:</b> Using HTML now, but no CSS (this mean NO 100% .md)
 
 # CHAPTER 2 AND 1 MEMES DOWN ->
 
