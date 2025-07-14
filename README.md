@@ -1,9 +1,20 @@
-# deltarune shitpost page.
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Deltarune shitpost page</title>
+        <meta name="description" content="zxc">
+    </head>
+</html>
+
+
+<h1>Deltarune Shitpost Page</h1>
 I will upload shitpost on this page, please send shitpost images or gif to the discord: .1mtassinggtv
 If u are a Github Pages developer, help me on discord how to make the images working
 
-# ALL THE GIFS WILL NOT LOAD, THIS IS A GITHUB ISSUE.
+<h1> Updates down. </h1>
+**1:** Fixed the GIF Issue
 
+**2:** Using HTML now, but no CSS (this mean NO 100% .md)
 
 # CHAPTER 2 AND 1 MEMES DOWN ->
 
@@ -68,8 +79,4 @@ https://www.youtube.com/watch?v=u5NqO2v_xnY
 
 
 ![gerson](https://tenor.com/view/deltarune-chapter-4-gerson-gerson-deltarune-hammer-of-true-gif-1899691044959185931?raw=true)
-
-
-
-
 
