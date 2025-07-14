@@ -1,12 +1,14 @@
 
-# Deltarune Shitpost Page
+# Deltarune Open Source Shitpost Page
 I will upload shitpost on this page, please send shitpost images or gif to the discord: .1mtassinggtv
-If u are a Github Pages developer, help me on discord how to make the images working
+
 
 # Updates down.
 <b>1:</b> Fixed the GIF Issue
 
 <b>2:</b> Using HTML now, but no CSS (this mean NO 100% .md)
+
+<b>3:</b> Now i know how to use images
 
 # CHAPTER 2 AND 1 MEMES DOWN ->
 
