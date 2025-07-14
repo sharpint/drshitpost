@@ -50,7 +50,7 @@ pluey we remember u **(or dont)**
 ![etoriel](https://media.discordapp.net/attachments/1386860001653555252/1394147812266082394/toriel.gif?ex=6875c0d4&is=68746f54&hm=73c4bb0661bda82558a1eb51ea41e92927caafcc84842ce392e3093ab87d423b&=&width=400&height=253)
 
 
-![asgore](https://tenor.com/view/asgore-dess-asgore-dess-car-deltarune-gif-10200147066035512181)
+![asgore-dess](https://github.com/user-attachments/assets/9fbe742e-bec7-4c02-83eb-c499a799a6f8)
 
 
 https://images-ext-1.discordapp.net/external/jXs8YtQ8u3lP2V3nEu92U1vuIFwln0-2Us2u5qXi4Zo/https/media.tenor.com/YKLyihZXwCsAAAPo/bungus2020-deltarune.mp4
@@ -68,5 +68,8 @@ https://www.youtube.com/watch?v=u5NqO2v_xnY
 
 
 ![gerson](https://tenor.com/view/deltarune-chapter-4-gerson-gerson-deltarune-hammer-of-true-gif-1899691044959185931?raw=true)
+
+
+
 
 
