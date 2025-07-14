@@ -49,6 +49,7 @@ pluey we remember u **(or dont)**
 
 ![kris.](https://media.discordapp.net/attachments/1386608115822235668/1386623773507321978/RDT_20250623_0526122273882248132363375.jpg?ex=68756845&is=687416c5&hm=312f6088e9ee8a1830d242401daabd5cac605fc66a739865ba97f8e7a9284f27&=&format=webp&width=618&height=823)
 
+![krisvssoul.](https://media.discordapp.net/attachments/267041819076853760/1394332045802737704/deltarune-delta-rune.gif?ex=68766c69&is=68751ae9&hm=73e9b162df5ef6c315240fabc3b3c5cb40f4757591438cc546f1984eca644da0&=&width=398&height=225)
 
 # CHAPTER 4 ASGORE DESS DOWN ->
 
